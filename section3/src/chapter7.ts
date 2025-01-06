@@ -12,6 +12,7 @@ type Person = {
 // value => number : toFixed
 // value => string : toUpperCase
 // value => Date : getTime
+// value => Person : name은 age살입니다.
 function func(value: number | string | Date | null | Person) {
   //   value;
   //   value.toUpperCase();

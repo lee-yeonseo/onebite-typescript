@@ -15,6 +15,7 @@ function unknownExam() {
   // let str: string = unknownVar;
   // let bool: boolean = unknownVar;
 }
+
 /**
  * Never 타입
  */
