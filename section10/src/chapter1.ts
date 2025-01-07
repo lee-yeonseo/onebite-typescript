@@ -19,7 +19,7 @@ const draft: Partial<Post> = {
   title: "제목 나중에 짓자",
   content: "초안...",
 };
-
+//
 /**
  * Required<T>
  * -> 필수의, 필수적인
